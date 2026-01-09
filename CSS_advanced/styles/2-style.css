@@ -1,0 +1,24 @@
+/* 1. Bütün body üçün mətn rəngi */
+body {
+  color: #161616;
+}
+
+/* 2. Bütün anchor elementləri üçün mətn rəngi */
+a {
+  color: #161616;
+}
+
+/* 3. Visually-hidden sinifinə sahib elementləri gizlə */
+.visually-hidden {
+  display: none;
+}
+
+/* 4. card-category sinifinə sahib elementlərin mətn rəngi */
+.card-category {
+  color: #D73953;
+}
+
+/* 5. section-tagline sinifinə sahib elementlərin mətn rəngi */
+.section-tagline {
+  color: #D73953;
+}
