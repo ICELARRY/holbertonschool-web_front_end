@@ -1,0 +1,15 @@
+/* 1. Define font-family variables on the root element */
+:root {
+  --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-title: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* 2. Apply base font to body */
+body {
+  font-family: var(--font-family-base);
+}
+
+/* 3. Apply title font to all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-title);
+}
