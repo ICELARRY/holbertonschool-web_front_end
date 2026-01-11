@@ -1,0 +1,1 @@
+convert -size 16x16 xc:black favicon.ico
